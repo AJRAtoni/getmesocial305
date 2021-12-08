@@ -133,20 +133,6 @@ a.text-dark:hover {
     transition: box-shadow 0.5s;
 }
 
-.boton.apple {
-    background-image: url("http://vignette2.wikia.nocookie.net/respawnables/images/2/2f/Apple-logo-white-md.png/revision/latest?cb=20160224124036");
-    background-size: 20px auto;
-    background-repeat: no-repeat;
-    background-position: 20px center;
-}
-
-.boton.google {
-    background-image: url("http://vignette3.wikia.nocookie.net/starwars/images/e/ee/Google_Play_logo.png/revision/latest?cb=20141119230612");
-    background-size: 20px auto;
-    background-repeat: no-repeat;
-    background-position: 20px center;
-}
-
 a.custom-card,
 a.custom-card:hover {
     color: black !important;
