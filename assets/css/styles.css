@@ -17,6 +17,10 @@
     background: black;
 }
 
+.titulo {
+    font-family: avenir;
+}
+
 a {
     text-decoration: none !important;
 }
