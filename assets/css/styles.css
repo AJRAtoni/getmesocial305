@@ -17,14 +17,12 @@
     background: black;
 }
 
-.titulo {
-font-size: 4rem;}
-.titulin {
-font-size:2.5;}
+.titulo { font-size: 4rem;}
+.titulin { font-size:2.5rem;}
     
-    @media only screen and (max-width: 800px) {
-    .titulo { font-size: 2.5rem;}
-    }
+@media only screen and (max-width: 800px) {
+  .titulo { font-size: 2.5rem;} 
+}
     
     
 
