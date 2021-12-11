@@ -17,8 +17,8 @@
     background: black;
 }
 
-.titulo {
-    font-family: avenir;
+.h1 {
+    font-family: avenir !important;
 }
 
 a {
