@@ -1,28 +1,24 @@
 @font-face {
-    font-family: "avenir";
+    font-family: "bebas";
     src: url(/assets/fonts/BebasNeue-Regular.ttf);
   }
 
   body {
-    font-family: "avenir" !important;
+    font-family: "bebas" !important;
  }
-
 
 #mainNav .navbar-toggler {
     color: black;
 }
+
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
     color: white !important;
     background: black;
 }
 
-.titulo { font-size: 4rem;}
+
 .titulin { font-size:2.5rem;}
-    
-@media only screen and (max-width: 800px) {
-  .titulo { font-size: 2.5rem;} 
-}
     
     
 
